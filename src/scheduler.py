@@ -109,4 +109,4 @@ def runners_released(waves, result, k, t):
     return round(waves[k].runners * done / waves[k].burst)
 
 
-def schedule(waves, algo, quantum=5, switch=1, aging_step=0):
+
